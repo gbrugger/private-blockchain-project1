@@ -4,7 +4,7 @@
   "description": "This project creates a Blockchain application to store data into the blocks",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Udacity - jose.morales@udacity.com",
@@ -17,5 +17,8 @@
     "express": "^4.16.4",
     "hex2ascii": "0.0.3",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
