@@ -38,7 +38,6 @@ class Blockchain {
         if (this.height === -1) {
             let block = new BlockClass.Block({ data: 'Genesis Block' });
             await this._addBlock(block);
-            console.log(`Added Genesis Block`);
         }
     }
 
