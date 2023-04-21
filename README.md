@@ -3,22 +3,22 @@
 ## Tests screenshots
 
 must use a GET call to request the Genesis block
-![](2023-04-20 (5).png)
+![](./img/2023-04-20 (5).png)
 
 must use a POST call to requestValidation
-![](2023-04-20 (6).png)
+![](./img/2023-04-20 (6).png)
 
 must sign message with your wallet
-![](2023-04-20 (8).png)
+![](./img/2023-04-20 (8).png)
 
 must submit your Star
-![](2023-04-20 (9).png)
+![](./img/2023-04-20 (9).png)
 
 must use GET call to retrieve starts owned by a particular address
-![](2023-04-20 (10).png)
+![](./img/2023-04-20 (10).png)
 
 create an endpoint that will trigger the execution of validateChain()
-![](2023-04-20 (11).png)
+![](./img/2023-04-20 (11).png)
 
 
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
